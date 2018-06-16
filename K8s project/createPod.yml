@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod
+  labels:
+    app: myapp
+spec:
+  containers:
+  - name: servizio1
+    image: micro1:c1
+    ports:
+       - containerPort: 8080
+  - name: servizio2
+    image: micro2:c2
+    ports:
+       - containerPort: 8090
