@@ -22,7 +22,7 @@ Alternativamente è possibile lanciare ogni singolo comando presente nello scrip
 
 # Sviluppo
 
-L'applicazione implementata è scritta in java prevede una comunicazione tra due micro servizi in cui viene stampata a schermo una stringa.
+L'applicazione implementata è scritta in java e prevede una comunicazione tra due micro servizi in cui viene stampata a schermo una stringa.
 
 I micro servizi sono compilati con gradle
 
