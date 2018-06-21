@@ -8,7 +8,7 @@ Tipologia progetto: definizione e sperimentazione di ambienti virtuali per Kuber
 Luigi Bevilacqua, Eleonora Bartolomucci, Alessandro Cimmino
 
 # Specifiche:
-Il software è scritto in Java e costruito con Gradle;
+Il software è scritto in Java e costruito con Gradle.
 Ciascun ambiente di esecuzione distribuito è composto da una macchina virtuale creata con VirtualBox.
 L'ambiente di esecuzione è basato su contenitori Docker
 
